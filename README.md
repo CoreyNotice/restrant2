@@ -72,3 +72,6 @@ GET
 
 #Part 3
 ## Making more views, creating a layout page, and expanding your README
+###completed
+# Part 4
+## Adding some style with CSS
