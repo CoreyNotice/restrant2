@@ -1,9 +1,14 @@
-import React from 'react'
+const React = require('react')
+const Def = require('../default')
 
-function new() {
+
+function new_form() {
   return (
-    <div>new</div>
+    <Def>
+      <main>
+      <h1>Add a New Place</h1>
+      </main>
+      </Def>
   )
 }
-
-export default new
+module.exports =new_form
