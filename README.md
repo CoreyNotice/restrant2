@@ -69,3 +69,6 @@ GET
 *
 
 404 page (matches any route not defined above)
+
+#Part 3
+## Making more views, creating a layout page, and expanding your README
