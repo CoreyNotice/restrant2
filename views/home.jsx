@@ -10,9 +10,6 @@ function home () {
                   <img src="/images/hotdog.jpg" alt="hotdog" width="25%" height="25%" margin="auto"/>
                 </div>
              
-              <a href="/places">
-                    <button type="button" class="btn btn-outline-success btn-lg btn-block">Places Page</button>
-                </a>
             </main>
         </Def>
     )
